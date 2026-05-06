@@ -77,7 +77,7 @@
 
     Draft description: Generate Sley conformance reports that reveal fixture coverage, schema-to-contract mappings, smoke tags, and release-readiness gaps.
 
-    Future canonical URL: `https://sley.dev/tools/sley-conformance`
+    Future canonical URL: `https://sley.greyforge.tech/tools/sley-conformance`
 
     GitHub URL while private: `https://github.com/GreyforgeLabs/sley-conformance`
 

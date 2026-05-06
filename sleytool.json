@@ -8,7 +8,7 @@
     "sley.verify.report.v0",
     "sley.zjx.envelope.v0"
   ],
-  "future_url": "https://sley.dev/tools/sley-conformance",
+  "future_url": "https://sley.greyforge.tech/tools/sley-conformance",
   "github": "https://github.com/GreyforgeLabs/sley-conformance",
   "name": "sley-conformance",
   "primary_user": "compiler maintainers",
