@@ -8,7 +8,7 @@
     "developer-tools",
     "conformance dashboard"
   ],
-  "license": "MIT",
+  "license": "Apache-2.0",
   "name": "sley-conformance",
   "private": true,
   "scripts": {
