@@ -2,8 +2,10 @@
 
     Static coverage and release-readiness reports for Sley schemas, fixtures, contracts, and CLI smokes.
 
-    Status: private Sley ecosystem scaffold. This repository is intentionally
-    built as a detailed starting point before public release.
+Status: private Sley ecosystem scaffold. This repository is intentionally
+built as a detailed starting point before public release.
+
+Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; current JS report engine is temporary until a Sley emit target is ready.
 
     ## Why This Exists
 
