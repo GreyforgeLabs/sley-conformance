@@ -78,7 +78,13 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
 
     SEO description: Generate conformance reports for Sley coverage, schema-to-contract mappings, smoke tags, and release-readiness gaps.
 
+    Keywords: `Sley conformance`, `contract coverage`, `AI-native validation`, `schema mapping`, `release readiness`, `smoke reports`
+
     Canonical URL: `https://sleylang.org/tools/sley-conformance`
+    - Geo metadata:
+      - Region: United States (US)
+      - Language: English
+      - Audience: AI-native language tooling teams and operators
 
     GitHub URL: `https://github.com/GreyforgeLabs/sley-conformance`
 
