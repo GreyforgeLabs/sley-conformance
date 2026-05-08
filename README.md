@@ -74,11 +74,11 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
 
     ## SEO Surface
 
-    Draft SEO title: `Sley Conformance - Sley developer tooling`
+    Draft SEO title: `Sley Conformance - AI-native conformance`
 
-    Draft description: Generate Sley conformance reports that reveal fixture coverage, schema-to-contract mappings, smoke tags, and release-readiness gaps.
+    Draft description: Generate AI-native conformance reports that reveal fixture coverage, schema-to-contract mappings, smoke tags, and release-readiness gaps.
 
-    Future canonical URL: `https://sley.greyforge.tech/tools/sley-conformance`
+    Future canonical URL: `https://sleylang.org/tools/sley-conformance`
 
     GitHub URL: `https://github.com/GreyforgeLabs/sley-conformance`
 
