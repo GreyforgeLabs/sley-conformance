@@ -18,5 +18,10 @@ Keywords:
 Social image:
 `assets/branding/social-card.png`
 
+GEO metadata:
+- Region: United States (`US`)
+- Language: English (`en`)
+- Target audience: AI-native teams requiring reproducible conformance checks, governance artifacts, and schema governance
+
 Release note:
 SEO metadata is public and points to production tool docs.
